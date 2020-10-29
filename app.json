@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "personalized-newsletter-app-2",
+    "slug": "snack-26de19c2-c918-4f16-9808-336f9ad58a16",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "A newsletter app which tells the latest COVID Updates, Sports News, the Weather & the Highlights of the Day! Enjoy xD"
+  }
+}
